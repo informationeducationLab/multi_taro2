@@ -14,7 +14,7 @@ import data as d
 
 SCOPE = "https://www.googleapis.com/auth/spreadsheets"
 SHEET_ID = "1NurGwkACx0ftrrCapdF-UnZJZq2Jm3TNiGlP5_tcbCE"
-SHEET_NAME = "taro1"
+SHEET_NAME = "taro2"
 X_COLS = [
     "身長",
     "体重",
